@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2b4fITin
 - 👀 I’m interested in developing using VBA, Python, T-SQL
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on developing using VBA, Python, T-SQL, DAX, R
+- 💞️ I’m looking for any collaboration in developing using VBA, Python, T-SQL, DAX, R
 - 📫 How to reach me by e-mail: 1976-76@inbox.ru
 
 <!---
